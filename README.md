@@ -3,18 +3,15 @@
 ## The Purpose 
 This analysis aims to merge and visualize two big data about the rides, drivers, fares and dates of urban, suburban, and rural city types. 
 
-<img width="592" alt="deliverable1" src="https://user-images.githubusercontent.com/111788394/192654735-29cffdca-394e-4ee8-94f9-a263f1b3a2a6.png">
-*Table 1: Fares by City Type*
+<img width="601" alt="Screen Shot 2022-09-27 at 7 58 45 PM" src="https://user-images.githubusercontent.com/111788394/192658230-4fdc4ee3-0f55-49da-84ac-d8f9aad28a84.png">
+
 
 ## The Task
-My task was to summarize the data Pyber to visualize it for the customer, and at the end, I had to create a multiple-line plot that shows the total weekly fares for each type of city from January to April.¶
+My task was to summarize the data Pyber to visualize it for the customer, and at the end, I had to create a multiple-line plot that shows the total weekly fares for each type of city from January to April.¶ So I prepared a pivot table and a chart.
 
+<img width="379" alt="Screen Shot 2022-09-27 at 7 58 55 PM" src="https://user-images.githubusercontent.com/111788394/192658531-b4f6435b-e3af-4cea-a847-9b5568105955.png">
 
-<img width="275" alt="pivot" src="https://user-images.githubusercontent.com/111788394/192655234-2b375116-a877-4f65-8327-775cc20f15a5.png"> 
-Table 2: Pivot Table by 'Type' and 'Date'
-  
-<img width="601" alt="final_chart" src="https://user-images.githubusercontent.com/111788394/192655410-04a2765c-eb2c-4fc7-be2c-e42c703080c0.png">
-Chart 1: The Final Chart
+<img width="668" alt="Screen Shot 2022-09-27 at 8 01 40 PM" src="https://user-images.githubusercontent.com/111788394/192658575-dd5977d0-ee23-498b-8e05-a87fd9144db8.png">
 
 
 ### Results
